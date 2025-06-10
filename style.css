@@ -1,0 +1,19 @@
+/*
+Theme Name:Tech Blog
+Theme URI:https://website.com/tech-blog
+Author:Vlere Mustafa
+Author URI:https://website.com/tech-blog
+Description:This theme is for learning purposes only
+Requires at least:5.6
+Tested up to:5.9
+Requires PHP:8.0
+Version:1.0
+Tags:one-column,custom-menu,custom-logo,featured-images
+
+
+*/
+
+
+h1{
+    color:red;
+}
